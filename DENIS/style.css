@@ -1,0 +1,126 @@
+body  {
+    background: yellowgreen;
+    font-family:geogia ;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+h1 {
+	color:blue;
+	font-family:red;
+}
+
+h3 {
+	color:yellow; 
+}
+
+img {
+	border-radius:20px;
+	width:400px;
+	height:200px;
+}
+
+address {
+	color:orangered;
+	font-family:blue;
+}
+
+p {
+	color:red;
+}
+
+h4 {
+	color: blue;
+
+}
+/*
+
+@Media screen and (max-width :400px) {
+	div {
+	background :blue;
+}
+
+.text {
+	font-size: 18px;
+}
+
+.banner img{
+	width: 100%;
+	margin: 100px;
+}
+
+.menu {
+	background: yellow;
+	padding: 30px;
+	display: flex;
+
+}
+
+.menu-item {
+	width: 25%;
+	margin: 50px auto;
+	justify-content: space-evenly;
+}
+
+.menu-item img {
+	width: 100%;
+	border-radius: 20px;
+}
+
+.Dine {
+	width: 80%;
+	display: flex;
+	margin: 50px auto;
+}
+
+.left-image 
+.banner-text {
+	background: #232380;
+	color: white;
+	text-align: center;
+	padding: 50px;
+	margin-top: -10px;
+}
+
+.banner-text h2 {
+	font-size: xx-large;
+}
+
+,banner-text p {
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.reviews {
+	width: 80%;
+	display: flex;
+	margin: 50px auto;
+
+}
+
+.form, .form-reviews {
+	width: 50%;
+
+}
+
+input-textarea {
+	width: 100%;
+
+}
+
+input-textarea {
+	height: 30px;
+}
+
+.form-reviews {
+	padding-left: 50px;
+}
+
+.review-items {
+	border-bottom: dashed;
+}
+
+@media (max-width: 930px) {
+
+}
